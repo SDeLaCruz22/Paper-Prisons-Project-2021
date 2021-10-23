@@ -12,10 +12,6 @@ function App() {
             <img src={logo} className="App-logo" alt="logo" />
             <Menu name="1" options={options} />
         </header>
-     
-        <p>
-            Edit <code>src/App.tsx</code> and save to reload.
-        </p>
         </div>
     );
 }
