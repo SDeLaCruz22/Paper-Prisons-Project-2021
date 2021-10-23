@@ -49,10 +49,11 @@ header{
 /* Style the subnav content - positioned absolute */
 .subnav-content {
   display: none;
-  left: 0;
+  position: absolute;
+  left:align;
   background-color: lightgray;
-  width: 100%;
-  z-index: 2;
+  width: inherit;
+  z-index: 200;
 }
 
 /* Style the subnav links */
