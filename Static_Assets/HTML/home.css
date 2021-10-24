@@ -96,7 +96,9 @@ main > h1{
   justify-content: center;
 }
 
-
+.TableauDiv{
+  margin-bottom: 100px;
+}
 
 footer > img{
   max-width: 100%;
