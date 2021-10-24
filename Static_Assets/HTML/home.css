@@ -96,6 +96,11 @@ main > h1{
   justify-content: center;
 }
 
+main > h3{
+  display: flex;
+  justify-content: center;
+}
+
 .TableauDiv{
   margin-bottom: 100px;
 }
