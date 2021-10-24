@@ -96,11 +96,7 @@ main > h1{
   justify-content: center;
 }
 
-.TableauDiv{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
+
 
 footer > img{
   max-width: 100%;
